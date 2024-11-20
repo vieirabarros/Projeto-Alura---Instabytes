@@ -8,17 +8,17 @@ const posts = [
   {
     id: 1,
     descricao: "Uma foto teste",
-    imagem: "https://placecats.com/millie/300/150"   
+    img_url: "https://placecats.com/millie/300/150"   
   },
   {
     id: 2,
     descricao: "Gato brincando com um novelo de lã",
-    imagem: "https://placecats.com/millie/300/150"   
+    img_url: "https://placecats.com/millie/300/150"   
   },
   {
     id: 3,
     descricao: "Paisagem de outono",
-    imagem: "https://placecats.com/millie/300/150" 
+    img_url: "https://placecats.com/millie/300/150" 
   }
 ];
 

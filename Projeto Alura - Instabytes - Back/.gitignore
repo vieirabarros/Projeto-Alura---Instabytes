@@ -1,3 +1,4 @@
 #Arquivos que não devem ser publicados; que devem existir apenas localmente
 node_modules
 gemini-chave-api.txt
+.env
